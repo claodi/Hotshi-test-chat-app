@@ -13,4 +13,5 @@ Image demo                 |  Image demo               |  Image demo
 ## Run app
 
 - flutter pub get
+- config lib/config.dart
 - flutter run
